@@ -10,6 +10,11 @@ Instal·lació i configuració del **```servei de DHCP```** en un servidor **Win
 
 Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre una màquina **Windows 2020 Server**. També caldrà que connecteu el vostre servidor amb dues màquines virtuals client de dos companys.
 
+
+## Ajuda
+
+Al repositori [xuleta-markdown](https://github.com/joanpardogine/xuleta-markdown), trobareu informació sobre les comandes a fer servir a **```markdown```**.
+
 ## Procediment
 
 **1.** Cal crear un **repositori remot** (en el vostre compte de **```github```**) anomenat:
