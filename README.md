@@ -46,7 +46,7 @@ Aquests passos cal que quedin reflectits al fitxer **```README.md```** del vostr
 
 > Cal que afegiu una explicació de com heu fet aquest pas, i si es possible una captura de pantalla al fitxer **```README.md```** del vostre **repositori remot**.
 
-**3.** El vostre **```servidor DHCP```** assignarà de manera **fixa** (*caldrà fer una reserva*) l'adreça IP **```172.128.<mesDelVostreAniversari>.20/24```** a una de les interfícies de xarxa de la màquina client d'un dels vostres companys. Cal que esbrineu quina MacAddress té la interfície de xarxa del client.
+**3.** El vostre **```servidor DHCP```** assignarà de manera **fixa** (*caldrà fer una reserva*) l'adreça IP **```172.128.<mesDelVostreAniversari>.55/24```** a una de les interfícies de xarxa de la màquina client d'un dels vostres companys. Cal que esbrineu quina MacAddress té la interfície de xarxa del client.
 
 > Cal que afegiu una explicació de com heu fet aquest pas, i si es possible una captura de pantalla al fitxer **```README.md```** del vostre **repositori remot**.
 
