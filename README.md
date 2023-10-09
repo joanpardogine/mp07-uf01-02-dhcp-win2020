@@ -39,10 +39,10 @@ Aquests passos cal que quedin reflectits al fitxer **```README.md```** del vostr
 
 **2.** Cal verificar que el vostre servidor disposa de **dues interfícies de xarxa**:
 
-   * la primera interfície de xarxa que donarà sortida a Internet (**```NAT```**) i tindrà la IP fixa
-        **```172.128.<mesDelVostreAniversari>.1/24```**
+   * la primera interfície de xarxa que donarà sortida a Internet (**```NAT```**)
 
-   * la segona interfície de xarxa caldrà que m'expliqueu con cal configurar-la, per poder-la connectar amb les dues màquines virtuals amb un sistema operatiu client dels vostres companys.
+   * la segona interfície de xarxa caldrà que m'expliqueu con cal configurar-la, per poder-la connectar amb les dues màquines virtuals amb un sistema operatiu client dels vostres companys. Aquesta segona interfície de xarxa tindrà una IP fixa de la subxarxa
+        **```172.128.<mesDelVostreAniversari>.0/24```**
 
 > Cal que afegiu una explicació de com heu fet aquest pas, i si es possible una captura de pantalla al fitxer **```README.md```** del vostre **repositori remot**.
 
