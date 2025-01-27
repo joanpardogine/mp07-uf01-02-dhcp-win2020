@@ -4,11 +4,11 @@ mp07-uf01-02-dhcp-win2020
 
 ## Objectiu
 
-Instal·lació i configuració del **```servei de DHCP```** en un servidor **Windows 2020 Server**.
+Instal·lació i configuració del **```servei de DHCP```** en un servidor **Windows 2022 Server**.
 
 ## Eines
 
-Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre una màquina **Windows 2020 Server**. També caldrà que connecteu el vostre servidor amb dues màquines virtuals client de dos companys.
+Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre una màquina **Windows 2022 Server**. També caldrà que connecteu el vostre servidor amb dues màquines virtuals client de dos companys.
 
 
 ## Ajuda
@@ -83,3 +83,4 @@ Al final de l'explicació, caldrà que el fitxer **```README.md```** del vostre 
    **2.2.** de les dues màquines client dels vostres companys.
 
 **3.** Quines són i com heu aconseguit les **dns de google**.
+
